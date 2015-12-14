@@ -7,3 +7,4 @@ if d>0:
 if d<0:
 	dr = math.trunc(d)
 print(d)
+ 
